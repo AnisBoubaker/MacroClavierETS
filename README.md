@@ -12,3 +12,4 @@ Cet outil a été conçu et créé par trois étudiants de l'ÉTS:
 
 Le clavier comporte neufs boutons et un encodeur (roulette). Chacun des boutons est associé à un une combinaison de touches du clavier. Chaque action de l'encodeur (tourner en sens horaire ou anti-horaire, ainsi que le click l'encodeur) est également associée à une combinaison de touches. Les combinaisons de touches ont été spécifiquement choisies pour qu'elles ne soient pas en conflit avec des raccourcis clavier communs et sont suffisamment complexes pour qu'il soit peu probable que vous utilisiez la même combinaison dans un de vos raccourcis que vous auriez définis. 
 
+## Comment utiliser le clavier?
