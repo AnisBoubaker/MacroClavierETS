@@ -22,7 +22,7 @@ Dans la section suivante, nous expliquons comment configurer les combinaisons de
 
 Le tableau, ci-dessous, recense les combinaisons de touches associées à chaque touche du macro-clavier. 
 
-<img src="/Volumes/GoogleDrive/My Drive/ETS/03_ProjetsPédagogiques/AméliorationAcadémique2020/StreamingDeck/MacroClavierETS/images/photo_MacroClavier.png" alt="Macro-Clavier" style="zoom:50%;" />
+<img src="./images/photo_MacroClavier.png" alt="Macro-Clavier" style="zoom:50%;" />
 
 | Touche                       | Code envoyé    |
 | ---------------------------- | -------------- |
