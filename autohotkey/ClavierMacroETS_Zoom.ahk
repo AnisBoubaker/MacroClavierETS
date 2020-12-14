@@ -3,7 +3,7 @@
 SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
 SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
-; Touche	Code envoyé
+; Touche	Code envoyé (reçu par AutoHotKey)
 ; 1	CTRL+SHIFT+F13
 ^+F13::
 ActivateZoom()
@@ -18,7 +18,8 @@ return
 
 ; 3	CTRL+SHIFT+F3
 ^+F3::
-;Send, Touche 3
+ActivateZoom()
+ToggleZoomAudioEveryoneButHost()
 return
 
 ; 4	CTRL+SHIFT+F4
@@ -87,4 +88,10 @@ ToggleZoomVideo()
 {
     ; Alt-V
     Send !v
+}
+
+ToggleZoomAudioEveryoneButHost()
+{
+    ; Alt-M
+    Send !m
 }
